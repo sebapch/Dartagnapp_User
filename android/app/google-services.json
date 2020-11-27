@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "1045834354574",
+    "firebase_url": "https://wok-and-holidays.firebaseio.com",
+    "project_id": "wok-and-holidays",
+    "storage_bucket": "wok-and-holidays.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045834354574:android:c63f0f0682a95c655ddedf",
+        "android_client_info": {
+          "package_name": "com.dezeleven.food_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045834354574-h0hrcqth7248gjqf8v4hm1dqvu76359i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dezeleven.food_course",
+            "certificate_hash": "fd56c3b4109bdf82f5e66d631f7072cca67c37f0"
+          }
+        },
+        {
+          "client_id": "1045834354574-trnbou7tssihsjqajrb3p5is2qejmprc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DlsGS0kPEFYSaDCjt3rrWMNGceiBqPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045834354574-trnbou7tssihsjqajrb3p5is2qejmprc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045834354574:android:324051be430af6b25ddedf",
+        "android_client_info": {
+          "package_name": "com.example.dartagnapp_admin2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045834354574-pirev9f4pqur1q9v7oj3rd29aoa4bptn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dartagnapp_admin2",
+            "certificate_hash": "fd56c3b4109bdf82f5e66d631f7072cca67c37f0"
+          }
+        },
+        {
+          "client_id": "1045834354574-trnbou7tssihsjqajrb3p5is2qejmprc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DlsGS0kPEFYSaDCjt3rrWMNGceiBqPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045834354574-trnbou7tssihsjqajrb3p5is2qejmprc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045834354574:android:5d4fdebda94704535ddedf",
+        "android_client_info": {
+          "package_name": "com.restoapp.wok_and_holidays"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045834354574-ercj051be3jv0a46mfkr5sjr2p2em8k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restoapp.wok_and_holidays",
+            "certificate_hash": "fd56c3b4109bdf82f5e66d631f7072cca67c37f0"
+          }
+        },
+        {
+          "client_id": "1045834354574-trnbou7tssihsjqajrb3p5is2qejmprc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DlsGS0kPEFYSaDCjt3rrWMNGceiBqPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045834354574-trnbou7tssihsjqajrb3p5is2qejmprc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
