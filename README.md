@@ -1,4 +1,4 @@
-# food_course
+# Dartagnan User
 
 A new Flutter application.
 
